@@ -1,1 +1,1 @@
-# studypedia
+# StudyPedia
